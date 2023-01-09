@@ -1,0 +1,299 @@
+What is the capital of the United Kingdom?
+London
+Edinburgh
+Cardiff
+Belfast
+
+Who wrote the novel "One Hundred Years of Solitude"?
+Gabriel García Márquez
+J. R. R. Tolkien
+J. K. Rowling
+Stephen King
+
+What is the capital of India?
+New Delhi
+Mumbai
+Bangalore
+Kolkata
+
+What is the chemical symbol for the element nitrogen?
+N
+O
+H
+C
+
+Who was the first President of the United States?
+George Washington
+Thomas Jefferson
+John Adams
+Benjamin Franklin
+
+What is the capital of Russia?
+Moscow
+St. Petersburg
+Kiev
+Minsk
+
+Who wrote the book "The Great Gatsby"?
+F. Scott Fitzgerald
+Ernest Hemingway
+J. D. Salinger
+William Shakespeare
+
+What is the capital of Germany?
+Berlin
+Munich
+Frankfurt
+Hamburg
+
+What is the currency of the European Union?
+Euro
+Dollar
+Pound
+Yen
+
+What is the chemical symbol for the element silver?
+Ag
+Au
+Cu
+Fe
+
+What was the first permanent English settlement in the Americas?
+Jamestown
+Plymouth
+Roanoke
+St. Augustine
+
+What was the cause of the American Civil War?
+Slavery
+Tariffs
+States' rights
+Westward expansion
+
+Who was the leader of the Soviet Union during World War II?
+Joseph Stalin
+Vladimir Putin
+Nikita Khrushchev
+Leon Trotsky
+
+What was the name of the first successful airplane, flown by the Wright brothers in 1903?
+The Wright Flyer
+The Spirit of St. Louis
+The Red Baron
+The Jenny
+
+In what year did Christopher Columbus discover America?
+1492
+1620
+1776
+1803
+
+Who was the leader of the Mexican army during the Mexican-American War?
+Antonio López de Santa Anna
+Miguel Hidalgo
+Agustín de Iturbide
+Benito Juárez
+
+What was the name of the first successful steamboat, invented by Robert Fulton in 1807?
+The Clermont
+The Savannah
+The Enterprise
+The Delta Queen
+
+What was the name of the first successful manned mission to land on the moon, in 1969?
+Apollo 11
+Apollo 12
+Apollo 13
+Apollo 14
+
+In what year did the Black Death, a pandemic of bubonic plague, reach Europe?
+1347
+1492
+1665
+1775
+
+In what year did the American Revolution begin?
+1775
+1776
+1777
+1778
+
+Who was the most famous spy in history?
+Mata Hari
+Aldrich Ames
+Kim Philby
+Bletchley Park
+
+What was the code name of the operation that exposed Soviet spy Klaus Fuchs?
+Operation Enigma
+Operation Mincemeat
+Operation Overlord
+Operation Epsilon
+
+What was the code name of the operation that exposed Soviet spy Kim Philby?
+Operation Glass
+Operation Foot
+Operation Run
+Operation Trust
+
+What was the code name of the operation that exposed Soviet spy Aldrich Ames?
+Operation Ghost Stories
+Operation Lost Love
+Operation Nightmover
+Operation Broken Trust
+
+What was the name of the network of spies that helped the Allies win World War II?
+The Cambridge Five
+The Manhattan Project
+The Double Cross System
+The Black Chamber
+
+What was the code name of the operation that exposed Soviet spy Julius Rosenberg?
+Operation Venona
+Operation Magic
+Operation Paperclip
+Operation Freshman
+
+What was the code name of the operation that exposed Soviet spy John Walker?
+Operation Shackle
+Operation Steel
+Operation Ruby
+Operation Snowstorm
+
+What was the code name of the operation that exposed Soviet spy Robert Hanssen?
+Operation Ghost Stories
+Operation Nightmover
+Operation Broken Trust
+Operation Lost Love
+
+What was the code name of the operation that exposed Soviet spy George Blake?
+Operation Gold
+Operation Boot
+Operation Stopwatch
+Operation Elephant
+
+What was the code name of the operation that exposed Soviet spy Harold "Kim" Philby?
+Operation Glass
+Operation Foot
+Operation Run
+Operation Trust
+
+What is the full name of the Java programming language?
+Java Platform, Standard Edition
+Java Platform, Enterprise Edition
+Java Platform, Mobile Edition
+Java Platform, Micro Edition
+
+What is the official website for the Java programming language?
+java.com
+oracle.com/java
+java.org
+sun.com/java
+
+What is the code name of the Java programming language release that introduced the Java Collections Framework?
+Tiger
+Dolphin
+Puma
+Jaguar
+
+What is the code name of the Java programming language release that introduced support for lambda expressions and default methods?
+Java SE 8
+Java SE 9
+Java SE 10
+Java SE 11
+
+What is the code name of the Java programming language release that introduced the JavaFX graphics framework?
+Java SE 7
+Java SE 8
+Java SE 9
+Java SE 10
+
+What is the code name of the Java programming language release that introduced the Project Jigsaw module system?
+Java SE 9
+Java SE 10
+Java SE 11
+Java SE 12
+
+What is the code name of the Java programming language release that introduced the Java Platform Module System (JPMS)?
+Java SE 8
+Java SE 9
+Java SE 10
+Java SE 11
+
+What is the code name of the Java programming language release that introduced the Garbage-First garbage collector (G1)?
+Java SE 7
+Java SE 8
+Java SE 9
+Java SE 10
+
+What is the code name of the Java programming language release that introduced the Java Development Kit (JDK)?
+Java SE 7
+Java SE 8
+Java SE 9
+Java SE 10
+
+What is the code name of the Java programming language release that introduced support for the HTTP/2 protocol?
+Java SE 9
+Java SE 10
+Java SE 11
+Java SE 12
+
+What was the first tank called?
+Mark I
+T-34
+Panzer I
+Little Willie
+
+What was the code name of the operation that involved the first use of tanks in warfare?
+Operation Overlord
+Operation Desert Storm
+Operation Barbarossa
+Operation Michael
+
+What was the most produced tank of World War II?
+T-34
+Panzer IV
+Sherman
+Tiger I
+
+What was the first tank to mount a main gun with a caliber of over 90 mm?
+Tiger I
+Panzer IV
+Sherman
+T-34
+
+What was the first tank to have a rotating turret?
+Little Willie
+Mark I
+Renault FT
+Mk V
+
+What was the first tank to mount a 105 mm gun?
+M60
+Leopard 1
+AMX-30
+Centurion
+
+What was the first tank to mount a 120 mm gun?
+M1 Abrams
+Leclerc
+Leopard 2
+T-64
+
+What was the first tank to mount a 140 mm gun?
+Armata
+Challenger 2
+K2 Black Panther
+Type 10
+
+What was the first tank to be equipped with a radio?
+Mark IV
+Renault FT
+Mk V
+T-34
+
+What was the first tank to be equipped with a diesel engine?
+T-34
+Panzer IV
+Sherman
+Tiger I
